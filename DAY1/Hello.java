@@ -8,6 +8,9 @@ class Hello{
         
         // Print the college name to console
         System.out.println("Government Engineering College");
+
+        //Print the my native name
+        System.out.println("My native is bijapur alias vijayapura");
     
     }
 
