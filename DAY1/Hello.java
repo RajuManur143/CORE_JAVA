@@ -11,6 +11,15 @@ class Hello{
 
         //Print the my native name
         System.out.println("My native is bijapur alias vijayapura");
+
+        // Print the mother name
+        System.out.println("My mother name is MAHADEVI");
+
+        // Print the father name
+        System.out.println("My father name is MALAKANNA");
+
+        // Print the nick name
+        System.out.println("My nick name is Raaja");
     
     }
 
