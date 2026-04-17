@@ -1,0 +1,14 @@
+package DAY6;
+public class raju {
+
+    static int add() {
+        int a = 10;
+        int b = 10;
+        int c =  a + b;
+        return c;
+    }
+
+    public static void main (String[] args) {
+        int x = add();
+    }
+}

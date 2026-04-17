@@ -1,3 +1,4 @@
+package DAY6;
 public class arguments {
 
     static void add(int a , int b) {
